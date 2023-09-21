@@ -32,3 +32,4 @@ const log = (msg: string, logLevel: LogLevel) => {
 
 log('hello', LOG_LEVEL.DEBUG)
 
+
